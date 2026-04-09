@@ -10,14 +10,6 @@ This project demonstrates basic Security Operations Center (SOC) skills by analy
 - Detect brute force attack behavior  
 - Understand how SIEM tools correlate logs and generate alerts  
 
-# Sample Log Data
-2026-04-01 10:15:23 LOGIN_FAILED user=admin ip=192.168.1.10
-2026-04-01 10:15:25 LOGIN_FAILED user=admin ip=192.168.1.10
-2026-04-01 10:15:27 LOGIN_FAILED user=admin ip=192.168.1.10
-2026-04-01 10:16:01 LOGIN_SUCCESS user=admin ip=192.168.1.10
-2026-04-01 10:20:45 LOGIN_FAILED user=john ip=10.0.0.5
-2026-04-01 10:21:00 LOGIN_SUCCESS user=john ip=10.0.0.5
-
 # Analysis Performed
 
 ### 1. Failed Login Detection
