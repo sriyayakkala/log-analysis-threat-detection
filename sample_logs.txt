@@ -1,7 +1,7 @@
-# Sample Log Data
-2026-04-01 10:15:23 LOGIN_FAILED user=admin ip=192.168.1.10
-2026-04-01 10:15:25 LOGIN_FAILED user=admin ip=192.168.1.10
-2026-04-01 10:15:27 LOGIN_FAILED user=admin ip=192.168.1.10
-2026-04-01 10:16:01 LOGIN_SUCCESS user=admin ip=192.168.1.10
-2026-04-01 10:20:45 LOGIN_FAILED user=john ip=10.0.0.5
-2026-04-01 10:21:00 LOGIN_SUCCESS user=john ip=10.0.0.5
+2026-09-05 21:14:02 WIN-DC01 Security-Auditing 4625 Failure Audit LogonType=10 TargetUser=Administrator SrcIP=185.220.101.5 Status=0xC000006D
+2026-09-05 21:14:05 WIN-DC01 Security-Auditing 4625 Failure Audit LogonType=10 TargetUser=Administrator SrcIP=185.220.101.5 Status=0xC000006D
+2026-09-05 21:14:08 WIN-DC01 Security-Auditing 4625 Failure Audit LogonType=10 TargetUser=Administrator SrcIP=185.220.101.5 Status=0xC000006D
+2026-09-05 21:14:12 WIN-DC01 Security-Auditing 4625 Failure Audit LogonType=10 TargetUser=Administrator SrcIP=185.220.101.5 Status=0xC000006D
+2026-09-05 21:14:18 WIN-DC01 Security-Auditing 4624 Success Audit LogonType=10 TargetUser=Administrator SrcIP=185.220.101.5
+2026-09-05 21:15:02 WIN-DC01 Security-Auditing 4720 Success Audit TargetUser=backdoor_admin SubjectUser=Administrator
+2026-09-05 21:15:10 WIN-DC01 Security-Auditing 4728 Success Audit TargetGroup=Administrators Member=backdoor_admin
